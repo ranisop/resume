@@ -45,7 +45,7 @@ sidebar:
       - item: Cooking
         link:
 
-# career-profile:
+career-profile:
 #     title: Career Profile
 #     summary: |
 #       Summarise your career here lorem ipsum dolor sit amet, consectetuer
@@ -54,27 +54,28 @@ sidebar:
 #       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 #       Donec quam felis, ultricies nec, pellentesque eu.
 #       Second paragraph if required.
+
 education:
-    - degree: 멀티미디어공학 학사 BSc in Multimedia Engineering
-      university: 단국대학교 University of Dankook
+    - degree: 멀티미디어공학 학사 #BSc in Multimedia Engineering
+      university: 단국대학교 #University of Dankook
       time: 2005 - 2010
-      details: |
-        멀티미디어시스템의 설계구축 및 응용 연구.
-        C프로그래밍, 컴퓨터과학개론, HCI프로그래밍, 멀티미디어개론, 객체지향자바, 멀티미디어시스템, 서버운영, 
-        그래픽스프로그래밍, 인터넷프로토콜, 멀티미디어DB, 고급자바, 창의적공학설계, 일러스트레이션, 미디어컨텐츠설계, 게임프로그래밍, 
-        멀티미디어신호처리설계, 멀티미디어알고리즘, 웹서버설계, 멀티미디어공학설계, 디지털컨텐츠, 멀티미디어통신프로그래밍 등
+#       details: |
+#         멀티미디어시스템의 설계구축 및 응용 연구.
+#         C프로그래밍, 컴퓨터과학개론, HCI프로그래밍, 멀티미디어개론, 객체지향자바, 멀티미디어시스템, 서버운영, 
+#         그래픽스프로그래밍, 인터넷프로토콜, 멀티미디어DB, 고급자바, 창의적공학설계, 일러스트레이션, 미디어컨텐츠설계, 게임프로그래밍, 
+#         멀티미디어신호처리설계, 멀티미디어알고리즘, 웹서버설계, 멀티미디어공학설계, 디지털컨텐츠, 멀티미디어통신프로그래밍 등
         
-    - degree: 경영학 학사 BAc in Business Administration
-      university: 단국대학교 University of Dankook
+    - degree: 경영학 학사 #BAc in Business Administration
+      university: 단국대학교 #University of Dankook
       time: 2005 - 2010
-      details: |
-        기업 내외부 자원을 관리할 수 있는 능력, 고객 욕구를 충족시키는 고객만족능력, 관계개선을 위한 커뮤니케이션 능력, 
-        기업 흐름을 분석할 수 있는 경영분석능력, 그리고 다양한 지식과 시각으로 문제를 해결하는 창의적인 능력 연구.
-        경영과학, 마케팅조사론, 생산운영관리, 조직행동론, 투자론, 품질경영, 원가회계, 재무관리, 국제재무관리, 소비자행동분석,
-        촉진전략론 등
+#       details: |
+#         기업 내외부 자원을 관리할 수 있는 능력, 고객 욕구를 충족시키는 고객만족능력, 관계개선을 위한 커뮤니케이션 능력, 
+#         기업 흐름을 분석할 수 있는 경영분석능력, 그리고 다양한 지식과 시각으로 문제를 해결하는 창의적인 능력 연구.
+#         경영과학, 마케팅조사론, 생산운영관리, 조직행동론, 투자론, 품질경영, 원가회계, 재무관리, 국제재무관리, 소비자행동분석,
+#         촉진전략론 등
         
-    - degree: 대기과학 학사 Associate Degree in Atmospheric Science
-      university: 국가평생교육진흥원 기상청 학점은행제 The Academic Credit Bank System
+    - degree: 대기과학 학사 #Associate Degree in Atmospheric Science
+      university: 국가평생교육진흥원 기상청 학점은행제 #The Academic Credit Bank System
       time: 2017 - 2019
       details: |
        
@@ -90,7 +91,8 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-# experiences:
+
+experiences:
 #     - role: Lead Developer
 #       time: 2015 - Present
 #       company: Startup Hubs, San Francisco
@@ -128,7 +130,8 @@ education:
 #         pellentesque eu, pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-# projects:
+
+projects:
 #     title: Projects
 #     intro: >
 #       You can list your side projects or open source libraries in this
@@ -155,7 +158,7 @@ education:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# publications:
+publications:
 #     title: Publications
 #     intro: |
 #       You can list your publications in this section. Lorem ipsum dolor sit
@@ -177,27 +180,24 @@ education:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-# skills:
-#     title: Skills &amp; Proficiency
+skills:
+    title: Skills &amp; Proficiency
 
-#     toolset:
-#       - name: Python & Django
-#         level: 98%
+    toolset:
+      - name: Python #& Django
+        level: 85%
 
-#       - name: Javascript & jQuery
-#         level: 98%
+      - name: Illustrator #Ruby on Rails
+        level: 85%
 
-#       - name: Angular
-#         level: 98%
+      - name: Photoshop
+        level: 85%
+        
+      - name: MS Office #Javascript & jQuery
+        level: 90%
 
-#       - name: HTML5 & CSS
-#         level: 95%
-
-#       - name: Ruby on Rails
-#         level: 85%
-
-#       - name: Sketch & Photoshop
-#         level: 60%
+      - name: HTML5 & CSS
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
