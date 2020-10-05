@@ -93,21 +93,22 @@ education:
 #           - Bullet point
 
 experiences:
-#     - role: Lead Developer
-#       time: 2015 - Present
-#       company: Startup Hubs, San Francisco
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#         error sit voluptatem accusantium doloremque laudantium, totam rem
-#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#         architecto beatae vitae dicta sunt explicabo.
-#           - Bullet point
-#           - Bullet point
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+
 #     - role: Senior Software Engineer
 #       time: 2014 - 2015
 #       company: Google, London
@@ -132,15 +133,15 @@ experiences:
 #           - Bullet point
 
 projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 #       - title: DevStudio
 #         link: "#"
@@ -166,20 +167,29 @@ publications:
 #       bibendum fringilla a eu lectus.
     papers:
       - title: ADsP (데이터 분석 준전문가)
-#         link: "#"
-        authors: 한국데이터산업진흥원 #Donald E. Knuth
-        conference: 2020.09. #Addison-Wesley, 1968
+        authors: 한국데이터산업진흥원 
+        conference: 2020.09. 
 
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: 경영 빅데이터 분석사 2급 
+        authors: 한국경제신문사 
+        conference: 2019.04. 
 
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 한국사능력 검정시험 1급 (고급) 
+        authors: 국사편찬위원회
+        conference: 2019.02.
+        
+      - title: 기상예보사
+        authors: 기상청
+        conference: 2019.01.
 
+      - title: 기상기사
+        authors: 한국산업인력공단
+        conference: 2014.05.
+        
+      - title: 정보처리기사
+        authors: 한국산업인력공단
+        conference: 2009.08.
+        
 skills:
     title: Skills &amp; Proficiency
 
