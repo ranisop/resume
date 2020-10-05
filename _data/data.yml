@@ -7,17 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 민금란   
-     | Rani Min
+    name: 민금란   Rani Min
     tagline: Junior Data Analyst
     avatar: rani_profile_02.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: dizyobu65@naver.com
-    phone: 012 345 6789
+    phone: 
     website: #blog.webjeda.com #do not add http://
     linkedin: #alandoe
-    github: ranisop
+    github: https://github.com/ranisop
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -37,10 +36,10 @@ sidebar:
 #         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Rattan Craft
         link:
 
-      - item: Snowboarding
+      - item: Ballet
         link:
 
       - item: Cooking
@@ -55,19 +54,32 @@ sidebar:
 #       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 #       Donec quam felis, ultricies nec, pellentesque eu.
 #       Second paragraph if required.
-# education:
-#     - degree: MSc in Computer Science
-#       university: University of London
-#       time: 2011 - 2012
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-#     - degree: BSc in Applied Mathematics
+education:
+    - degree: 멀티미디어공학 학사 BSc in Multimedia Engineering
+      university: 단국대학교 University of Dankook
+      time: 2005 - 2010
+      details: |
+        멀티미디어시스템의 설계구축 및 응용 연구.
+        C프로그래밍, 컴퓨터과학개론, HCI프로그래밍, 멀티미디어개론, 객체지향자바, 멀티미디어시스템, 서버운영, 
+        그래픽스프로그래밍, 인터넷프로토콜, 멀티미디어DB, 고급자바, 창의적공학설계, 일러스트레이션, 미디어컨텐츠설계, 게임프로그래밍, 
+        멀티미디어신호처리설계, 멀티미디어알고리즘, 웹서버설계, 멀티미디어공학설계, 디지털컨텐츠, 멀티미디어통신프로그래밍 등
+        
+    - degree: 경영학 학사 BAc in Business Administration
+      university: 단국대학교 University of Dankook
+      time: 2005 - 2010
+      details: |
+        기업 내외부 자원을 관리할 수 있는 능력, 고객 욕구를 충족시키는 고객만족능력, 관계개선을 위한 커뮤니케이션 능력, 
+        기업 흐름을 분석할 수 있는 경영분석능력, 그리고 다양한 지식과 시각으로 문제를 해결하는 창의적인 능력 연구.
+        경영과학, 마케팅조사론, 생산운영관리, 조직행동론, 투자론, 품질경영, 원가회계, 재무관리, 국제재무관리, 소비자행동분석,
+        촉진전략론 등
+        
+    - degree: 대기과학 학사 Associate Degree in Atmospheric Science
+      university: 국가평생교육진흥원 기상청 학점은행제 The Academic Credit Bank System
+      time: 2017 - 2019
+      details: |
+       
+
+#     - degree: ruddudgk
 #       university: Bristol University
 #       time: 2007 - 2011
 #       details: |
