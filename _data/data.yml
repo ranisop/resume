@@ -168,7 +168,13 @@ experiences:
           - 오픈소스 AI 툴 활용 딥러닝 모델링(TensorFlow, Keras, 이미지 모델링)
           - 프로젝트(Django), 아이디어톤, 해커톤, Git 활용 등
           
-         
+
+experiences:
+    - role: 아이디어톤 프로젝트 우수상
+      time: 2019.11.-2019.11.
+      company: 삼성 멀티캠퍼스
+      details: |
+          - 가전제품 설명서 서비스 아이디어 
           
           
 projects:
