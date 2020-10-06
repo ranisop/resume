@@ -14,31 +14,30 @@
     {{ career-profile.summary | markdownify }}
   </div><!--//summary-->
     
-  {% for career-profile in career-profile.assignments %}
-    <div class="item">
-      
-      {% if project.details %}
-      <div class="details">
-        {{ project.details | markdownify }}
-     
+ {% if project.details %}
+    <div class="details">
+      {{ project.details | markdownify }}
+  
+   {% for career-profile in career-profile.assignments %}
+      <div class="item">
 
         <span class="career-profile-title">
-          {% if career-profile.link %}
-          <a href="{{ career-profile.link }}" target="_blank">{{ career-profile.title }}</a>
-          {% else %}
-          {{ career-profile.title }}
+            {% if career-profile.link %}
+            <a href="{{ career-profile.link }}" target="_blank">{{ career-profile.title }}</a>
+            {% else %}
+            {{ career-profile.title }}
+            {% endif %}
+          </span>
+
+          {% if career-profile.tagline %}
+          - <span class="career-profile-tagline">{{ career-profile.tagline }}</span>
           {% endif %}
-        </span>
 
-        {% if career-profile.tagline %}
-        - <span class="career-profile-tagline">{{ career-profile.tagline }}</span>
-        {% endif %}
-        
-      </div><!--//details-->
-      {% endif %}
-
-    </div><!--//item-->
-  {% endfor %}
+      </div><!--//item-->
+    {% endfor %}
+      
+  </div><!--//details-->
+  {% endif %}    
   
 </section><!--//section-->
 {% endif %}
