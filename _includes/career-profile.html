@@ -9,14 +9,11 @@
     </span>
     {{ career-profile.title }}
   </h2>
-  
-
 
   <div class="summary">
     {{ career-profile.summary | markdownify }}
   </div><!--//summary-->
 
-<!--  {% for career-profile in career-profile.papers %} -->
   
    {% for career-profile in career-profile.assignments %}
     <div class="item">
@@ -34,8 +31,7 @@
         {% endif %}
 
     </div><!--//item-->
-<!--   {% endfor %} -->
-{% endfor %}
+  {% endfor %}
 
   
 </section><!--//section-->
