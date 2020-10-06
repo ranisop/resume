@@ -45,6 +45,7 @@ sidebar:
       - item: Cooking
         link:
 
+
 career-profile:
     title: Data Analysis Portfolio #Career Profile
     assignments:
@@ -55,10 +56,8 @@ career-profile:
 #     summary: |
 #       Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-#       Second paragraph if required.
+
+
 
 education:
     - degree: 멀티미디어공학 학사 #BSc in Multimedia Engineering
@@ -84,61 +83,6 @@ education:
       time: 2017 - 2019
       details: |
        
-
-#     - degree: ruddudgk
-#       university: Bristol University
-#       time: 2007 - 2011
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-
-
-
-
-# experiences:
-#     - role: Lead Developer
-#       time: 2015 - Present
-#       company: Startup Hubs, San Francisco
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#         error sit voluptatem accusantium doloremque laudantium, totam rem
-#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#         architecto beatae vitae dicta sunt explicabo.
-#           - Bullet point
-#           - Bullet point
-
-#     - role: Senior Software Engineer
-#       time: 2014 - 2015
-#       company: Google, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-#     - role: UI Developer
-#       time: 2012 - 2014
-#       company: Amazon, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
 
 
 experiences:
@@ -167,7 +111,40 @@ experiences:
           - 빅데이터 활용 머신러닝(Scikit-learn, Azure머신 활용)
           - 오픈소스 AI 툴 활용 딥러닝 모델링(TensorFlow, Keras, 이미지 모델링)
           - 프로젝트(Django), 아이디어톤, 해커톤, Git 활용 등
+
+    - role: AI 라벨링 프로젝트
+      time: 2020.02. - 2020.02.
+      company: (주)데이터연구소
+      details: |
+          - 인공지능 학습용 데이터 생성 및 수정 & 검증 (라벨링 프로젝트)        
+
+    - role: 153Weather Team, 기상연구원
+      time: 2017.11. - 2019.01.
+      company: (주)지비엠아이엔씨 
+      details: |
+          - 기상청 국책 사업 입찰을 위한 제안서 작성 및 진행, 보고서 작성 등 기상 관련 국책 사업 총 7건에 참여
+          - 개나리/진달래/벚꽃 개화시기 예측, 단풍 절정시기 예측 등 계절기상 연구 및 예측
+        
+    - role: Marketing Team, 사원
+      time: 2012.11. - 2013.11.
+      company: 도서출판 리스컴
+      details: |
+          - 신간도서 마케팅 기획, 제안서 작성 및 진행 (이유식 신간 도서 + 새로 런칭하는 제약회사 어린이 로션 이벤트 진행 → 10~15% 매출 초과 달성) 
+          - 일본 도서 판권 수입을 목적으로 한국 시장 분석 수행 (1인 가구의 빠른 증가에 맞춰 ‘정리’와 ‘minimal life’에 초점을 둔 ⌜좁은 집 넓게 쓰는 정리의 기술⌟ 출간 → 온라인 서점 만족도 9.3/10(알라딘/Yes24, 2020.09.23.기준))
+            
+    - role: FIT(상품개발) Team, 사원
+      time: 2010.02. - 2011.03.
+      company: 참좋은여행(주)
+      details: |
+          - 일본 자유여행 상품 기획, 기획안 작성 및 진행
+          - 여행 상품 개발을 위해 일본 호텔 및 여행 시장 분석 수행 (금요일 밤(새벽)에 출발하는 1박 3일 ‘밤도깨비’ 상품 → 금요일 밤에 제대로 쉬지 못해 여행내내 피로 누적 → 호텔 예약시 ‘얼리 체크인(Early Check-In)’ 옵션 추가 → 토요일 오전 휴식 후 더 알차게 여행을 즐길 수 있음 → 고객 만족도 상승↑)
+          - 고객 상담 (2010. 09. 이달의 친절 우수사원 선정)
           
+    - role: 시스템 개발 프로젝트 보조
+      time: 2008.04. - 2008.10.
+      company: (주)티맥스소프트
+      details: |
+          - 새마을금고연합회 시스템 개발 보조  
           
 projects:
     title: Awards and Honors #Projects
@@ -192,6 +169,7 @@ projects:
           - 사용설명서는 브랜드, 제품 카테고리에서 직접 찾거나 모델명으로 검색 가능
           - 회원가입/로그인을 통해 가지고 있는 모델을 My List에 저장 가능
             
+
 
 publications:
     title: Certificate #Publications
@@ -224,6 +202,9 @@ publications:
         authors: 한국산업인력공단
         conference: 2009.08.
         
+     
+        
+    
 skills:
     title: Skills &amp; Proficiency
 
