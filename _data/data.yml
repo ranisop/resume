@@ -85,6 +85,16 @@ education:
        
 
 
+training:
+
+    - role: 파이썬 기반 빅데이터 처리 및 분석 기술
+      time: 2020.10. - Present
+      company: 대구가톨릭대학교 컴퓨터소프트웨어학부/소프트웨어융합학과(K-MOOC E-Learning)
+      details: |
+          - Colab 환경을 이용한 Numpy, Pandas 실습
+          - 시각화(Matplotlib), 회귀분석(Scikit-Learn), 분류분석(나이브 베이즈), 군집분석(k-평균, 가우스 혼합 모델)
+
+
 experiences:
 
     - role: (T) 파이썬 기반 빅데이터 처리 및 분석 기술
