@@ -197,7 +197,15 @@ p {
         margin-bottom: 10px;
         color: $text-grey;
     }
-
+	
+    .career-profile-title {
+        font-size: 16px;  
+    }
+	
+//     .career-profile-tagline {
+	    
+//     }
+	
     .project-title {
         font-size: 16px;
         font-weight: 400;
@@ -205,6 +213,12 @@ p {
         margin-bottom: 5px;
 	color: darken($theme-color, 15%);
     }
+     
+    .project-tagline {
+	font-size: 14px;
+    }
+
+    
     .projects-section {
         .intro {
             margin-bottom: 30px;
@@ -215,17 +229,19 @@ p {
     }
 
     .publication-title {
-        font-size: 16px;
+        font-size: 13px;
         font-weight: 400;
         color: $text-color;
         margin-bottom: 1px;
     }
     .publication-authors {
-        font-style: italic;
+/*        font-style: italic;  */
+	  
         color: $text-grey;
         margin-bottom: 1px;
     }
     .publications-section {
+	  
         .intro {
             margin-bottom: 30px;
         }
