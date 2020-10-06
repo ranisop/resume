@@ -46,7 +46,12 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Data Analysis Portfolio #Career Profile
+    assignments:
+    - title: 사드 배치에 의한 중국인 관광객 수 영향
+      link: "https://github.com/ranisop/Data_Exercise/blob/master/3.3%20tourists%20data%20visualization.ipynb"
+      tagline: "사드 배치에 의한 중국인 관광객 수 영향"
+      
 #     summary: |
 #       Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #       adipiscing elit. You can [download this free resume/CV template here]().
