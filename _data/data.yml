@@ -86,7 +86,29 @@ education:
 
 
 experiences:
-    - role: 실전 데이터 분석 과정
+
+    - role: (T) 파이썬 기반 빅데이터 처리 및 분석 기술
+      time: 2020.10. - Present
+      company: 대구가톨릭대학교 컴퓨터소프트웨어학부/소프트웨어융합학과 (K-MOOC E-Learning)
+      details: |
+          - Colab 환경을 이용한 Numpy, Pandas 실습
+          - 시각화(Matplotlib), 회귀분석(Scikit-Learn), 분류분석(나이브 베이즈), 군집분석(k-평균, 가우스 혼합 모델)
+
+    - role: (T) 데이터 마이닝
+      time: 2020.09. - Present
+      company: 서울대학교 컴퓨터공학부 (K-MOOC E-Learning)
+      details: |
+          - 데이터 마이닝의 알고리즘 학습 (빈발 아이템 찾기, 링크 분석, 추천 시스템 등)
+          
+    - role: (T) R을 활용한 통계학개론
+      time: 2020.09. - Present
+      company: 부산대학교 통계학과 (K-MOOC E-Learning)
+      details: |
+          - 통계학의 기초와 필수 개념 학습
+          - R을 이용한 자료 분석
+               
+
+    - role: (T) 실전 데이터 분석 과정
       time: 2020.03. - 2020.08.
       company: DS School
       details: |
@@ -96,13 +118,13 @@ experiences:
           - 마케팅 효율 파악을 위해 마케팅 데이터와 결제 데이터 분석(데이터사이언스 교육 스타트업 디에스스쿨(DS School))
           - 고객 데이터 분석 및 데이터 클리닝 실습(헬스케어 스타트업 눔(Noom), 프리랜스 오픈마켓 서비스 크몽(Kmong))
          
-    - role: 파이썬 기본 과정 (Python Basic)
+    - role: (T) 파이썬 기본 과정 (Python Basic)
       time: 2019.10. - 2019.10.
       company: Michigan University, Coursera
       details: |
           - Python 3 Programming
        
-    - role: 빅데이터(딥러닝) 활용 AI 설계
+    - role: (T) 빅데이터(딥러닝) 활용 AI 설계 
       time: 2019.04. - 2019.11.
       company: 삼성 멀티캠퍼스
       details: |
@@ -112,27 +134,27 @@ experiences:
           - 오픈소스 AI 툴 활용 딥러닝 모델링(TensorFlow, Keras, 이미지 모델링)
           - 프로젝트(Django), 아이디어톤, 해커톤, Git 활용 등
 
-    - role: AI 라벨링 프로젝트
+    - role: (E) AI 라벨링 프로젝트
       time: 2020.02. - 2020.02.
       company: (주)데이터연구소
       details: |
           - 인공지능 학습용 데이터 생성 및 수정 & 검증 (라벨링 프로젝트)        
 
-    - role: 153Weather Team, 기상연구원
+    - role: (E) 153Weather Team, 기상연구원
       time: 2017.11. - 2019.01.
       company: (주)지비엠아이엔씨 
       details: |
           - 기상청 국책 사업 입찰을 위한 제안서 작성 및 진행, 보고서 작성 등 기상 관련 국책 사업 총 7건에 참여
           - 개나리/진달래/벚꽃 개화시기 예측, 단풍 절정시기 예측 등 계절기상 연구 및 예측
         
-    - role: Marketing Team, 사원
+    - role: (E) Marketing Team, 사원
       time: 2012.11. - 2013.11.
       company: 도서출판 리스컴
       details: |
           - 신간도서 마케팅 기획, 제안서 작성 및 진행 (이유식 신간 도서 + 새로 런칭하는 제약회사 어린이 로션 이벤트 진행 → 10~15% 매출 초과 달성) 
           - 일본 도서 판권 수입을 목적으로 한국 시장 분석 수행 (1인 가구의 빠른 증가에 맞춰 ‘정리’와 ‘minimal life’에 초점을 둔 ⌜좁은 집 넓게 쓰는 정리의 기술⌟ 출간 → 온라인 서점 만족도 9.3/10(알라딘/Yes24, 2020.09.23.기준))
             
-    - role: FIT(상품개발) Team, 사원
+    - role: (E) FIT(상품개발) Team, 사원
       time: 2010.02. - 2011.03.
       company: 참좋은여행(주)
       details: |
@@ -140,7 +162,7 @@ experiences:
           - 여행 상품 개발을 위해 일본 호텔 및 여행 시장 분석 수행 (금요일 밤(새벽)에 출발하는 1박 3일 ‘밤도깨비’ 상품 → 금요일 밤에 제대로 쉬지 못해 여행내내 피로 누적 → 호텔 예약시 ‘얼리 체크인(Early Check-In)’ 옵션 추가 → 토요일 오전 휴식 후 더 알차게 여행을 즐길 수 있음 → 고객 만족도 상승↑)
           - 고객 상담 (2010. 09. 이달의 친절 우수사원 선정)
           
-    - role: 시스템 개발 프로젝트 보조
+    - role: (E) 시스템 개발 프로젝트 보조
       time: 2008.04. - 2008.10.
       company: (주)티맥스소프트
       details: |
