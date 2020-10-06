@@ -9,6 +9,12 @@
     </span>
     {{ career-profile.title }}
   </h2>
+  
+  {% if career-profile.intro %}
+  <div class="intro">
+    {{ career-profile.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
 
   <div class="summary">
     {{ career-profile.summary | markdownify }}
