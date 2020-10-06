@@ -89,20 +89,20 @@ training:
 
     - role: 파이썬 기반 빅데이터 처리 및 분석 기술
       time: 2020.10. - Present
-      company: 대구가톨릭대학교 컴퓨터소프트웨어학부/소프트웨어융합학과(K-MOOC E-Learning)
+      company: 대구가톨릭대학교 컴퓨터소프트웨어학부/소프트웨어융합학과, K-MOOC E-Learning
       details: |
           - Colab 환경을 이용한 Numpy, Pandas 실습
           - 시각화(Matplotlib), 회귀분석(Scikit-Learn), 분류분석(나이브 베이즈), 군집분석(k-평균, 가우스 혼합 모델)
 
     - role: 데이터 마이닝
       time: 2020.09. - Present
-      company: 서울대학교 컴퓨터공학부(K-MOOC E-Learning)
+      company: 서울대학교 컴퓨터공학부, K-MOOC E-Learning
       details: |
           - 데이터 마이닝의 알고리즘 학습(빈발 아이템 찾기, 링크 분석, 추천 시스템 등)
           
     - role: R을 활용한 통계학개론
       time: 2020.09. - Present
-      company: 부산대학교 통계학과(K-MOOC E-Learning)
+      company: 부산대학교 통계학과, K-MOOC E-Learning
       details: |
           - 통계학의 기초와 필수 개념 학습
           - R을 이용한 자료 분석
@@ -120,7 +120,7 @@ training:
          
     - role: 파이썬 기본 과정(Python Basic)
       time: 2019.10. - 2019.10.
-      company: Michigan University, Coursera
+      company: Michigan University, Coursera E-Learning
       details: |
           - Python 3 Programming
        
