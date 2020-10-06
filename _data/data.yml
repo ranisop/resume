@@ -137,7 +137,6 @@ education:
 
 
 experiences:
-#     title: Training #Projects
     - role: 실전 데이터 분석 과정
       time: 2020.03. - 2020.08.
       company: DS School
@@ -147,20 +146,39 @@ experiences:
           - 사용자의 액티비티를 바탕으로 고객의 니즈와 특징 분석(여성 의류 쇼핑몰 플랫폼 지그재그(ZIGZAG))
           - 마케팅 효율 파악을 위해 마케팅 데이터와 결제 데이터 분석(데이터사이언스 교육 스타트업 디에스스쿨(DS School))
           - 고객 데이터 분석 및 데이터 클리닝 실습(헬스케어 스타트업 눔(Noom), 프리랜스 오픈마켓 서비스 크몽(Kmong))
-
-
+         
+    - role: 파이썬 기본 과정 (Python Basic)
+      time: 2019.10. - 2019.10.
+      company: Michigan University, Coursera
+      details: |
+          - Python 3 Programming
+       
+    - role: 빅데이터(딥러닝) 활용 AI 설계
+      time: 2019.04. - 2019.11.
+      company: 삼성 멀티캠퍼스
+      details: |
+          - 상용인프라 솔루션 구축 및 활용(Azure)
+          - 딥러닝을 위한 빅데이터 기초(데이터 모델링, SQL 응용, 기초 알고리즘, R, Python) 
+          - 빅데이터 활용 머신러닝(Scikit-learn, Azure머신 활용)
+          - 오픈소스 AI 툴 활용 딥러닝 모델링(TensorFlow, Keras, 이미지 모델링)
+          - 프로젝트(Django), 아이디어톤, 해커톤, Git 활용 등
+          
+         
+          
+          
 projects:
-    title: Training #Projects
+    title: Awards and Honors #Projects
 #     intro: >
 #       You can list your side projects or open source libraries in this
 #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: 실전 데이터 분석 과정(DS School)
-#         time: 2015 - Present
-        tagline: "모바일/웹 서비스 데이터를 활용하여 데이터 클리닝, 시각화 등 데이터 분석 전 과정 수행"
-#         "Pandas, Numpy, SQL, 시각화 패키지(Seaborn, Matplotlib 등)을 활용"
-        
+    - title: 아이디어톤 프로젝트 우수상 (삼성 멀티캠퍼스, 2019.11.)
+      tagline: "[가전제품 설명서 서비스 아이디어] 가전제품을 사용하다 고장이 나거나 작동이 잘 안 돼서 사용설명서가 필요할 때, 사용설명서를 찾기 힘들었던 경험을 떠올려 가전제품 사용설명서 서비스 아이디어를 발표"
+      
+    - title: 해커톤 프로젝트 우수상 (삼성 멀티캠퍼스, 2019.11.)
+      tagline: "[가전제품 설명서 웹서비스]  Django로 웹 구현, 제품에 관련된 정보는 엑셀로 작업 후 json파일로 변경하여 DB와 연결, 사용설명서는 브랜드와 제품 카테고리에서 직접 찾거나 모델명으로 검색 가능, 회원가입/로그인 서비스를 제공하여 가지고 있는 모델을 My List에 저장 가능"
+             
 
 publications:
     title: Certificate #Publications
