@@ -51,7 +51,10 @@ career-profile:
     assignments:
     - title: 사드 배치에 의한 중국인 관광객 수 영향 분석 🖱
       link: "https://github.com/ranisop/Data_Exercise/blob/master/3.3%20tourists%20data%20visualization.ipynb"
-      tagline: "사드 배치의 영향으로 중국인 관광객이 얼마나 줄었을까?"
+#       tagline: "사드 배치의 영향으로 중국인 관광객이 얼마나 줄었을까?"
+      details: |
+          - 사드 배치의 영향으로 중국인 관광객이 얼마나 줄었을까?
+
 
     - title: 인스타그램 크롤링 🖱
       link: "https://github.com/ranisop/Data_Exercise/blob/master/4.3%20map.ipynb"
