@@ -57,8 +57,9 @@ career-profile:
 
 
     - title: 인스타그램 크롤링 🖱
-      link: "https://github.com/ranisop/Data_Exercise/blob/master/4.3%20map.ipynb"
+#       link: "https://github.com/ranisop/Data_Exercise/blob/master/4.3%20map.ipynb"
 #       tagline: "가장 뜨는 제주도 핫플레이스는 어디일까?"
+      link: "https://github.com/ranisop/resume/blob/master/_posts/2020-10-12-netlify-cms-created-this-article.md"
       details: |
           - 가장 뜨는 제주도 핫플레이스는 어디일까?
       
