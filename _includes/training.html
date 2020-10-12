@@ -1,32 +1,32 @@
-{% assign experiences = site.data.data.experiences %}
-{% if experiences %}
-<section class="section experiences-section">
+{% assign training = site.data.data.training %}
+{% if training %}
+<section class="section training-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    Training & Experiences
+    Training
 <!--     Experiences -->
   </h2>
 
-  {% for experience in experiences %}
+  {% for training in training %}
   <div class="item">
 
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ experience.role }}</h3>
-        <div class="time">{{ experience.time }}</div>
+        <h3 class="job-title">{{ training.role }}</h3>
+        <div class="time">{{ training.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company">{{ experience.company }}</div>
+      <div class="company">{{ training.company }}</div>
 
     </div><!--//meta-->
 
-    {% if experience.details %}
+    {% if training.details %}
     <div class="details">
-      {{ experience.details | markdownify }}
+      {{ training.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
