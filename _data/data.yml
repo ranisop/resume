@@ -286,28 +286,28 @@ publications:
 #       bibendum fringilla a eu lectus.
     papers:
       - title: ADsP(데이터 분석 준전문가)
-        authors: 한국데이터산업진흥원 
-        conference: 2020.09. 
+        authors: 한국데이터산업진흥원 (2020.09.)
+#        conference: 2020.09. 
 
       - title: 경영 빅데이터 분석사 2급 
-        authors: 한국경제신문사 
-        conference: 2019.04. 
+        authors: 한국경제신문사 (2019.04.)
+#        conference: 2019.04. 
 
       - title: 한국사능력 검정시험 1급(고급) 
-        authors: 국사편찬위원회
-        conference: 2019.02.
+        authors: 국사편찬위원회 (2019.02.)
+#        conference: 2019.02.
         
       - title: 기상예보사
-        authors: 기상청
-        conference: 2019.01.
+        authors: 기상청, 2019.01.
+#        conference: 2019.01.
 
       - title: 기상기사
-        authors: 한국산업인력공단
-        conference: 2014.05.
+        authors: 한국산업인력공단, 2014.05.
+#        conference: 2014.05.
         
       - title: 정보처리기사
-        authors: 한국산업인력공단
-        conference: 2009.08.
+        authors: 한국산업인력공단, 2009.08.
+#        conference: 2009.08.
         
      
 skills:
