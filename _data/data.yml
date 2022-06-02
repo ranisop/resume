@@ -106,9 +106,10 @@ experiences:
       company: (주)코트비스
 #      title: [신한라이프] AI NewLife(TM AI비서) 추천스크립트 프로젝트(2022.02.-Present)
       details: |
-          - 빅데이터 구축 및 관리
-          - 데이터 분류/가공/검수
-          - STT 분석을 통해 데이터 추출 및 화법 추천
+          - [신한라이프] AI NewLife(TM AI비서) 추천스크립트 프로젝트(2022.02.-Present) 
+            : 빅데이터 구축 및 관리
+            : 데이터 분류/가공/검수
+            : STT 분석을 통해 데이터 추출 및 화법 추천
 #      title: [신한생명] AI챗봇 오로라 개인화 서비스 확장 프로젝트(2021.08.-2022.01.)
       details: |
           - 챗봇 개인화 시나리오 기획 및 구축
@@ -134,12 +135,10 @@ experiences:
           - 공공기관/민간기관 기상 경영 컨설팅
           - 계절기상 연구 및 예측
           - 기상 관련 사업 참여(기상청 외 공공기관)
-          - [한국전력거래소] 일사량 예측 사업
-            :
-          - [수도권기상청/대전지방기상청/강원지방기상청/광주지방기상청] 기상관윽 지원 사업
-            :
-          - [대전지방기사청] 대전・세종・충남 '함께 걸어유' 관광기상융합서비스 개발 사업
-            :
+            : [한국전력거래소] 일사량 예측 사업
+            : [수도권기상청/대전지방기상청/강원지방기상청/광주지방기상청] 기상관윽 지원 사업
+            : [대전지방기사청] 대전・세종・충남 '함께 걸어유' 관광기상융합서비스 개발 사업
+            
         
     - role: 마케팅팀 / 사원
       time: 2012.11. - 2013.11.
@@ -248,7 +247,7 @@ training:
  
 
 publications:
-    title: Certificate #Publications
+    title: Certificates #Publications
 #     intro: |
 #       You can list your publications in this section. Lorem ipsum dolor sit
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
