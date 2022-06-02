@@ -52,7 +52,7 @@ sidebar:
 career-profile:
     title: Data Analysis Portfolio #Career Profile
     assignments:
-    - title: 사드 배치에 의한 중국인 관광객 수 영향 분석 🖱
+    - title: 사드 배치에 의한 중국인 관광객 수 영향 분석 💻
       link: "https://github.com/ranisop/Data_Exercise/blob/master/3.3%20tourists%20data%20visualization.ipynb"
 #       tagline: "사드 배치의 영향으로 중국인 관광객이 얼마나 줄었을까?"
       details: |
@@ -194,10 +194,10 @@ projects:
           - 사용자 편의에 맞는 사용법 추가
           - 사진 검색 기능 추가
           
-    - title: 해커톤 프로젝트 우수상 [가전제품 설명서 웹 서비스]    
-      tagline: 삼성 멀티캠퍼스, 2019.11. 🖱
-#       tagline: "[가전제품 설명서 웹서비스]  Django로 웹 구현, 제품에 관련된 정보는 엑셀로 작업 후 json파일로 변경하여 DB와 연결, 사용설명서는 브랜드와 제품 카테고리에서 직접 찾거나 모델명으로 검색 가능, 회원가입/로그인 서비스를 제공하여 가지고 있는 모델을 My List에 저장 가능"
+    - title: 해커톤 프로젝트 우수상 [가전제품 설명서 웹 서비스] 💻
       link: "https://drive.google.com/file/d/1NNDKFr7pr-mzS0QwrnElX8V0X1amHzU5/view?usp=sharing"
+      tagline: 삼성 멀티캠퍼스, 2019.11. 
+#       tagline: "[가전제품 설명서 웹서비스]  Django로 웹 구현, 제품에 관련된 정보는 엑셀로 작업 후 json파일로 변경하여 DB와 연결, 사용설명서는 브랜드와 제품 카테고리에서 직접 찾거나 모델명으로 검색 가능, 회원가입/로그인 서비스를 제공하여 가지고 있는 모델을 My List에 저장 가능"
       details: |
           - Django로 웹 구현
           - 제품에 관련된 정보는 엑셀로 작업 후 json 파일로 변경하여 DB와 연결
