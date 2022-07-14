@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: 민금란 (Rani)
-    tagline: Junior Data Analyst
+    tagline: Knowledge Consultant # Junior Data Analyst
     avatar: rani_profile_02.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -104,7 +104,7 @@ career-profile:
 
 
 education:
-    - degree: 멀티미디어공학 학사 #BSc in Multimedia Engineering
+    - degree: 멀티미디어공학 학사(Bachelor of Multimedia Engineering) #BSc in Multimedia Engineering
       university: 단국대학교 #University of Dankook
       time: 2005 - 2010
 #       details: |
@@ -113,7 +113,7 @@ education:
 #         그래픽스프로그래밍, 인터넷프로토콜, 멀티미디어DB, 고급자바, 창의적공학설계, 일러스트레이션, 미디어컨텐츠설계, 게임프로그래밍, 
 #         멀티미디어신호처리설계, 멀티미디어알고리즘, 웹서버설계, 멀티미디어공학설계, 디지털컨텐츠, 멀티미디어통신프로그래밍 등
         
-    - degree: 경영학 학사 #BAc in Business Administration
+    - degree: 경영학 학사(Bachelor of Business Administration) #BAc in Business Administration
       university: 단국대학교 #University of Dankook
       time: 2005 - 2010
 #       details: |
@@ -122,12 +122,12 @@ education:
 #         경영과학, 마케팅조사론, 생산운영관리, 조직행동론, 투자론, 품질경영, 원가회계, 재무관리, 국제재무관리, 소비자행동분석,
 #         촉진전략론 등
         
-    - degree: 대기과학 학사 #Associate Degree in Atmospheric Science
+    - degree: 대기과학 학사(Bachelor of Atmospheric Science) #Associate Degree in Atmospheric Science
       university: 국가평생교육진흥원(학점은행제) #The Academic Credit Bank System
       time: 2017 - 2019
       details: |
        
-    - degree: 경영학 석사 #Associate Degree in Atmospheric Science
+    - degree: 경영학 석사(Master of Business Administration) #Associate Degree in Atmospheric Science
       university: 서강대학교 경영전문대학원 #The Academic Credit Bank System
       time: 2022 - Current
       details: |
