@@ -127,15 +127,29 @@ education:
       time: 2017 - 2019
       details: |
        
+    - degree: 경영학 석사 #Associate Degree in Atmospheric Science
+      university: 서강대학교 경영전문대학원 #The Academic Credit Bank System
+      time: 2022 - Current
+      details: |
 
 
 experiences:
+    - role: (주)와이즈넛
+      time: 2022.07. - Current
+      company: 전략사업본부 ABM사업부 / 대리
+      details: |
+          - [식품의약품안전처] 차세대 의료기기 통합기기 구축 프로젝트 (2022.07. - Current) 
+            : ・ 빅데이터 구축 및 관리
+            : ・ 데이터 분류/가공/검수
+            : ・ 챗봇 시나리오 기획 및 구축
+            
+
     - role: (주)코트비스
-      time: 2020.10. - Present
+      time: 2020.10. - 2022.06.
       company: 마이닝컨설팅팀 / 대리
 #      title: [신한라이프] AI NewLife(TM AI비서) 추천스크립트 프로젝트 (2022.02. - Present)
       details: |
-          - [신한라이프] AI NewLife(TM AI비서) 추천스크립트 프로젝트 (2022.02. - Present) 
+          - [신한라이프] AI NewLife(TM AI비서) 추천스크립트 프로젝트 (2022.02. - 2022.06.) 
             : ・ 빅데이터 구축 및 관리
             : ・ 데이터 분류/가공/검수
             : ・ STT 분석을 통해 데이터 추출 및 화법 추천
